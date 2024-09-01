@@ -1,0 +1,11 @@
+developer_token: "y3SNURd3XzMTTY73bd0tHw"
+client_id: "76833370957-of0n583mj63utomv6h4brop2i9nh6f2s.apps.googleusercontent.com"
+client_secret: "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"
+refresh_token: "1//0gTvykwN_4NQrCgYIARAAGBASNwF-L9IrEEsF8z-ycLEH7itryHLV5nCNYLfkaf-0wWd0kUG7AoNHLuO1aMjDTeZmyenG_bKI1co"
+login_customer_id: "7920620082"  # Optional
+
+# Uncomment the following lines if you're using a Google Ads Manager account
+# and need to impersonate a linked client account.
+# client_customer_id: "INSERT_CLIENT_CUSTOMER_ID_HERE"
+
+use_proto_plus: True
